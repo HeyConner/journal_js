@@ -1,0 +1,26 @@
+{
+  "name": "journal_js",
+  "description": "Journal App using TypeScript and Gulp",
+  "main": "gulpfile.js",
+  "authors": [
+    "Ben Ronda/Conner Belvin"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6"
+  },
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6"
+  }
+}
